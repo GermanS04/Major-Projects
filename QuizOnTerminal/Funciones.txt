@@ -1,0 +1,65 @@
+1 Pregunta 1 
+1 Por razones de salud la gente debería limitar sus esfuerzos, por ejemplo al hacer deporte, para no superar una determinada frecuencia cardiaca. 
+1 Durante años la relación entre la máxima frecuencia cardiaca recomendada para una persona y su edad se describía mediante la fórmula siguiente: 
+1 Máxima frecuencia cardiaca recomendada = 220 – edad 
+1 Investigaciones recientes han demostrado que esta fórmula debería modificarse ligeramente. La nueva fórmula es la siguiente: 
+1 Máxima frecuencia cardiaca recomendada = 208 – (0,7 x edad) 
+1
+1 Un artículo de periódico afirma: “El resultado de usar la nueva fórmula en lugar de la antigua es que el máximo número recomendado de latidos cardíacos por minuto disminuye ligeramente para los jóvenes y aumenta ligeramente para los mayores”. ¿A partir de qué edad aumenta la máxima frecuencia cardiaca recomendada como resultado de introducir la nueva fórmula?
+1
+1 a) 52
+1 b) 45
+1 c) 41
+1 d) 37
+1 Respuesta= c 
+1 Explicacion:
+1 Podemos ver que las expresiones matemáticas anteriores hacen un sistema de ecuaciones de 2 ecuaciones con dos incógnitas, que sería la edad y la máxima frecuencia cardiaca. Por lo tanto solo debemos resolver el sistema de ecuaciones y así encontraremos la solución. Igualamos la frecuencia cardiaca máxima y obtenemos entonces que:
+1 220-edad=208(0.7*edad)
+1 Despejamos edad y nos queda:
+1 220-208=edad-0.7*edad
+1 220-208=edad*(1-0.7)
+1 (220-208)/0.3 = edad
+1 Finalmente, edad=40 años
+
+2 Pregunta 1b 
+2 La fórmula para la máxima frecuencia cardiaca recomendada = 208 – (0,7 x edad) se aplica también para determinar cuándo es más eficaz el ejercicio físico. Las investigaciones han demostrado que el entrenamiento físico es más eficaz cuando la frecuencia cardiaca alcanza el 80% del valor máximo recomendado. Escribe una fórmula para hallar, en función de la edad, la frecuencia cardiaca recomendada para que el ejercicio físico sea más efectivo. 
+2
+2 f=frecuencia cardiaca, e=edad
+2 a) f=166-.6e
+2 b) f=172-.5e
+2 c) f=160-.8e
+2 d) f=166-.7e
+2 Respuesta= a 
+2 Explicacion:
+2 Como el valor máximo recomendado es del 80%, tenemos que usar el 80% de los valores de la función, 
+2 sacamos el 80% de 208 que es igual a 166 y el 80% de .7 que es .6. La función final queda en f=166-.6e.
+
+
+3 Pregunta 2
+3 Una foca tiene que respirar incluso si está durmiendo dentro del agua. Martín observó una foca durante una hora. Cuando empezó a observarla, la foca estaba en la superficie tomando aire. Entonces se sumergió hasta el fondo del mar y comenzó a dormir. Desde el fondo invirtió 8 minutos en subir lentamente a la superficie, donde tomó aire otra vez. Tres minutos después estaba de nuevo en el fondo del mar. Martín se percató de que este proceso era muy regular. 
+3
+3 Al cabo de una hora la foca estaba 
+3 a) en el fondo 
+3 b) subiendo 
+3 c) tomando aire 
+3 d) bajando 
+3 Respuesta= b
+3 Explicacion:
+3 cada 8 + 3 = 11 minutos de observación  está en el fondo.
+3 5 ciclos completos serían 5 x 11 = 55 minutos.
+3 Después de una hora estaría subiendo a la superficie ya que el tiempo que resta es menor de 8 minutos.
+
+4 Pregunta 3
+4 La temperatura en la escala de Fahrenheit (ºF) se puede obtener a partir de la escala de Celsius (ºC) mediante la función:
+4 C = 5/9 (F -  32)
+4
+4 ¿Cuál de estas temperaturas en ºF corresponde con 50ºC?
+4 a) 115
+4 b) 119
+4 c) 120
+4 d) 122
+4 Respuesta= d
+4 Explicacion:
+4 Usando la fórmula C = 5/9 (F -  32), sustituyes la temperatura en celsius (C°) y despejas 
+4 los fahrenheit (F°), quedaria asi: (C° × 9/5) + 32=F
+4 (50C°* 9/5)+32= 122

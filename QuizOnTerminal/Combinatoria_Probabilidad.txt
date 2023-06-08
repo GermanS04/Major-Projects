@@ -1,0 +1,56 @@
+1 Pregunta 1
+1 En un juego de una caseta de feria se utiliza en primer lugar una ruleta. Si la ruleta se para en un número par, entonces el jugador puede sacar una canica de una bolsa. La ruleta y las canicas de la bolsa se representan en los dibujos siguientes. La ruleta tiene los valores (1,2,4,6,8,10) y la bolsa tiene 6 canicas negras y 14 blancas
+1
+1 Cuando se saca una canica negra se gana un premio.
+1 Daniela juega una vez. ¿Cómo es de probable que Daniela gane un premio? 
+1 a) Es imposible. 
+1 b) No es muy probable. 
+1 c) Tiene aproximadamente el 50% de probabilidad. 
+1 d) Es muy probable. 
+1 Respuesta= b
+1 Explicacion:
+1 Para sacar la probabilidad de sacar una canica negra de la bolsa, tenemos que multiplicar 
+1 la probabilidad de sacar un número par de la ruleta, por la probabilidad de sacar 
+1 una canica negra de la bolsa. Las opciones pueden ser vistas como, 
+1 imposible=0, no es muy probable = .1 a .49, .50 o más de .51 como muy probable.
+1 5/6*6/20=.25
+
+2 Pregunta 2
+2 En una pizzería se puede elegir una pizza básica con dos ingredientes: queso y tomate. También puedes diseñar tu propia pizza con ingredientes adicionales. Se pueden seleccionar entre cuatro ingredientes adicionales diferentes: aceitunas, jamón, champiñones y salami. 
+2 Jaime quiere encargar una pizza con dos ingredientes adicionales diferentes.
+2
+2 ¿Cuántas combinaciones diferentes podría seleccionar Jaime? 
+2 Respuesta:. ......................combinaciones.
+2 a) 4
+2 b) 6
+2 c) 8
+2 d) 5
+2 Respuesta= b
+2 Explicacion:
+2 Los 2 ingredientes adicionales pueden ser preferencia de Jaime, por lo tanto, 
+2 con ellos también se puede hacer 2 combinaciones más. En total, son 6 combinaciones.
+
+3 Pregunta 3
+3 Se hizo un estudio sobre las televisiones en Suiza, los resultados dicen que 2.8 millones de personas tienen un televisor en su casa, el porcentaje de casas con televisiones en respecto al total de casas es de 85.8%.
+3
+3 Según la información, ¿cuál es el cálculo más aproximado del número total de hogares en Suiza? 
+3 a) 2,4 millones 
+3 b) 2,9 millones
+3 c) 3,3 millones 
+3 d) 3,8 millones
+3 Respuesta= c
+3 Explicacion:
+3 Analizando el problema, sabemos que los 2.8 millones de personas son el 85.8% de la 
+3 población total, así que tenemos que usar una regla de 3 para sacar el valor del 100%. 
+3 Quedaría 85.8/2.8, 100/x, multiplicas 100 por 2.8 y luego lo divides entre 85.8.
+
+4 Pregunta 4
+4 Halle la posibilidad de que al lanzar una moneda dos veces, salga una cruz y una cara, sin importar el orden.
+4 a) 1/4
+4 b) 1/2
+4 c) 1/8
+4 d) 1/3
+4 Respuesta= b
+4 Explicacion:
+4 Debemos sacar la probabilidad de cada opción (1/2)(1/2) y después sumarlas, para tener el resultado. 
+4 1/2 *1/2  +1/2  *1/2  =1/2 

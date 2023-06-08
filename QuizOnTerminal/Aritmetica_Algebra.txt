@@ -1,0 +1,87 @@
+1 PROBLEMA 1
+1 En un concierto de rock se reservó para el público un terreno rectangular con unas
+1 dimensiones de 100 m por 50 m. Se vendieron todas las entradas y el terreno se llenó
+1 de aficionados, todos de pie.
+1 
+1 ¿Cuál de las siguientes constituye la mejor estimación del número total de asistentes
+1 al concierto?
+1 a. 2000
+1 b. 5000
+1 c. 20000
+1 d. 50000
+1 Respuesta= c
+1 Explicacion:
+1 El area del terreno es 100 x 50 = 5000 m2
+1 Si dividimos las opciones entre 5000 podemos ver que la
+1 más lógico es de 20000/5000 porque nos deja un espacio de 
+1 4 metros cuadrados por persona
+
+2 PROBLEMA 2
+2 Para construir una estantería un carpintero necesita lo siguiente:
+2   4 tablas largas de madera,
+2   6 tablas cortas de madera,
+2   12 ganchos pequeños,
+2   2 ganchos grandes,
+2   14 tornillos.
+2
+2 El carpintero tiene en el almacén 26 tablas largas de madera, 33 tablas cortas de
+2 madera, 200 ganchos pequeños, 20 ganchos grandes y 510 tornillos.
+2 ¿Cuántas estanterías completas puede construir este carpintero?
+2 a. 10
+2 b. 5
+2 c. 100
+2 d. 50
+2 Respuesta= b
+2 Explicacion:
+2 Dividimos cada material que nos dan entre lo que se necesita para
+2 hacer una mesa entonces tenemos que:
+2 26/4 = 6.5
+2 33/6 = 5.5
+2 200/12 = 16.6
+2 20/2 = 10
+2 510/24 = 21.25
+2 El menor numero entero, en este caso 5, es la cantidad de mesas que podemos hacer porque
+2 al pasarnos de eso ya no tendremos el material para hacer otra mesa
+
+3 PROBLEMA 3
+3 Para los hombres, la fórmula n/P = 140 da una relación aproximada entre n y P donde:
+3 n = número de pasos por minuto, y
+3 P = longitud del paso en metros. 
+3
+3 Si se aplica la fórmula a la manera de caminar de Enrique y este da 70 pasos por
+3 minuto, ¿cuál es la longitud del paso de Enrique? (en metros)
+3 a. 0.5 metros
+3 b. 1 metro
+3 c. 0.3 metros
+3 d. 0.25 metros
+3 Respuesta= a
+3 Explicacion:
+3 Tenemos que "n" = 70 entonces la formula es 70/p = 140,
+3 si despejamos para "p" el primer paso es mandar "p" multiplicando
+3 y obtenemos 70 = 140 * p, ahora solo despejamos "p" mandando 140 dividiendo
+3 tal que asi 70/140 = p, al hacer la operación obtenemos como resultado 0.5
+
+4 PROBLEMA 4
+4 Normalmente, una pareja de pingüinos pone dos huevos al año.
+4
+4 Por lo general, el polluelo del mayor de los dos huevos es el único
+4 que sobrevive.
+4
+4 En el caso de los pingüinos de penacho amarillo, el primer huevo
+4 pesa aproximadamente 78 g y el segundo huevo pesa
+4 aproximadamente 110 g.
+4
+4 Aproximadamente, ¿en qué porcentaje es más pesado el segundo
+4 huevo que el primer huevo? 
+4 a. 29%
+4 b. 32%
+4 c. 41%
+4 d. 71%
+4 Respuesta= c
+4 Explicacion:
+4 Para tener la relación del segundo al primer huevo tenemos que dividir
+4 el peso del segundo entre el primero y multiplicarlo por 100 para
+4 obtener el porcentaje:
+4 110/78 * 100 = 141%
+4 Le restamos 100% a 141% y obtenemos que el segundo huevo es 41% más pesado
+4 que el primero.

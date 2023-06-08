@@ -1,0 +1,76 @@
+1 PROBLEMA 1
+1 Hay una escalera con 14 peldaños y una altura total de 252 cm
+1
+1 ¿Cuál es altura de cada uno de los 14 peldaños? 
+1 a. 20 cm
+1 b. 15 cm
+1 c. 40 cm
+1 d. 18 cm
+1 Respuesta= d
+1 Explicacion:
+1 Dividimos la altura total de la escalera entre el numero de peldaños
+1 252/14 = 18
+
+2 PROBLEMA 2
+2 Nicolás quiere pavimentar el patio rectangular de su nueva casa. El patio mide 5,25
+2 metros de largo y 3,00 metros de ancho. Nicolás necesita 81 ladrillos por metro
+2 cuadrado.
+2
+2 Calcula cuántos ladrillos necesita Nicolás para pavimentar todo el patio. 
+2 a. 1276
+2 b. 1376
+2 c. 2000
+2 d. 1500
+2 Respuesta= a
+2 Explicacion:
+2 Primero sacamos el area del patio de Nicolás, el cual seria 5.25 * 3 = 15.75 m2
+2 Y ahora solo aplicamos regla de tres simples con el area del patio y de los bloques:
+2 1         81
+2 15.75     x
+2 (15.75 * 81)/1 = 1276 ladrillos
+
+3 PROBLEMA 3
+3 Una pizzería sirve dos pizzas redondas del mismo grosor y de diferente tamaño. La
+3 más pequeña tiene un diámetro de 30 cm y cuesta 30 euros. La mayor tiene un
+3 diámetro de 40 cm y cuesta 40 euros. 
+3
+3 ¿Qué pizza tiene mejor precio?
+3 a. La mayor
+3 b. La menor
+3 c. Tienen el mismo precio
+3 d. Ninguna
+3 Respuesta= a
+3 Explicacion:
+3 Primero sacamos el área de la pizza pequeña la cual es π * 15 * 15 = 225π, ya que
+3 la formula del área de un circulo es π * radio al cuadrado,
+3 y lo dividimos entre el precio, 225π/30 = 23.56 cm cuadrados por euro. 
+3 Hacemos el mismo procedimiento con la pizza grande:
+3 El área de la pizza grande es  π * 20 * 20 = 400π 
+3 400π/40 = 31.41 cm cuadrados por euro
+3 31.41 cm es mayor a 23.56 cm entonces la pizza grande tiene mejor precio.
+
+4 PROBLEMA 4
+4 El noventa y cinco por ciento del comercio mundial se realiza por mar gracias a unos
+4 50.000 buques cisterna, graneleros y buques portacontenedores. La mayoría de estos
+4 barcos utilizan diesel.
+4
+4 Los ingenieros pretenden utilizar la energía eólica para sustentar los barcos. Su
+4 propuesta consiste en enganchar velascometa a los barcos y utilizar el poder del
+4 viento para reducir el consumo de diesel y el impacto del combustible sobre el medio
+4 ambiente.
+4
+4 Una ventaja de utilizar una vela-cometa es que esta vuela a una altura de 150 m. Allí,
+4 la velocidad del viento es, aproximadamente, un 25% mayor que sobre la cubierta del
+4 barco.
+4
+4 ¿A qué velocidad, aproximadamente, sopla el viento en una vela-cometa cuando sobre
+4 la cubierta de un buque portacontenedor la velocidad del viento es de 24 km/h? 
+4 a. 6 km/h
+4 b. 18 km/h
+4 c. 25 km/h
+4 d. 30 km/h
+4 Respuesta= d
+4 Explicacion:
+4 Nos dicen que el viento en la cubierta del barco es de 24 km/h y que a la altura
+4 del vela-cometa se aumenta un 25%, entones tenemos que sacar el 125% de 24:
+4 24 * 1.25 = 30
